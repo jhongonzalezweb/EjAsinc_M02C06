@@ -1,0 +1,29 @@
+body {
+    background-color: cornflowerblue;
+}
+
+#pre-navbar {
+    background-color: gray;
+    height: 20px;
+    width: 100%;
+
+}
+
+#navbar {
+    background-color: white;
+    height: 100px;
+    width: 100%;
+
+}
+
+#post-navbar {
+    background-color: red;
+    height: 30px;
+    width: 100%;
+
+}
+
+#peliculas {
+    background-color: rgba(179, 171, 171, 0.824);
+
+}
